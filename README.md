@@ -30,3 +30,5 @@ Had to go back to GitHub, generated an Access Token, went back to AWS and succes
 Findings:
 
 Like I mentioned before, I had a really difficult time trying to figure out how Docker works. GitHub was also new to me and difficult at first, but I was able to understand how things worked fairly quickly. After spending multiple days trying to understand how Docker works, I believe I was able to successfully containerize my application but I’m not entirely sure. I also did not quite understand how to create my Cloudformation stack using the text that was given to use in the instructions.
+
+***had to re do EC2 instance to take screenshots. It did not ask me for an Access Token the second time***
